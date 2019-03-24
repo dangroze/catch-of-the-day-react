@@ -10,6 +10,7 @@ class App extends React.Component {
         <div className="menu">
           <Header />
         </div>
+          <Order />
       </div>
     )
   }
